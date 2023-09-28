@@ -1,2 +1,2 @@
 # lakers
-[Rama Brahmam Botla](CIS641-HW2-botla)
+[Rama Brahmam Botla](https://github.com/ramrockety/CIS641-HW2-botla)
