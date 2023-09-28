@@ -1,2 +1,2 @@
 # lakers
-[Rama Brahmam Botla](GVSU-CIS641-botla)
+[Rama Brahmam Botla](CIS641-HW2-botla)
